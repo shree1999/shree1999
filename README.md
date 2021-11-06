@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shree1999&show_icons=true&locale=en&layout=compact" alt="shree" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shree1999&show_icons=true&theme=onedark" /></p>
