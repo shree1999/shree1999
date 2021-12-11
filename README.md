@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal development project and other things**
 
-- 🌱 I’m currently learning **Nextjs, android/ios app development(Flutter)**
+- 🌱 I’m currently learning about **Typescript, Microservices related topics**
 
 - 👨‍💻 All of my projects are available at [My repositories](https://github.com/shree1999?tab=repositories)
 
