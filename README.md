@@ -10,7 +10,3 @@
 - 💬 Ask me about **react and javascript** or it can be **MERN stack**
 
 - 📫 How to reach me _shreeanshgupta1999@gmail.com_
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shree1999&show_icons=true&locale=en&layout=compact" alt="shree" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shree1999&show_icons=true&theme=onedark" /></p>
